@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notificacion</string>
+    <string name="mensaje01">Mensaje</string>
+    <string name="toast4">BARRA DE NOTIFICACIÓN</string>
+    <string name="gravity">Mensaje (TOAST) con Gravity</string>
+    <string name="personal">Mensaje con Dise;o Personalizado</string>
+    <string name="atencion">Atencion!</string>
+    <string name="mensajealerta">Mensaje de Alerta</string>
+    <string name="ejemplo">Ejemplo de Notificacion</string>
+</resources>

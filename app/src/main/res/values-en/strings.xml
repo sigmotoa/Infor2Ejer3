@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notification</string>
+    <string name="mensaje01">Message</string>
+    <string name="toast4">NOTIFICATION BAR</string>
+    <string name="gravity">(TOAST) Message with Gravity</string>
+    <string name="personal">Personal Message</string>
+    <string name="atencion">Atenttion!</string>
+    <string name="mensajealerta">Alert Message</string>
+    <string name="ejemplo">Notification Example</string>
+</resources>
